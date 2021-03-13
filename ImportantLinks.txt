@@ -1,0 +1,54 @@
+MAKE UI DISAPPEAR AFTER SOME TIME
+https://answers.unity.com/questions/896755/enabledisable-game-objects-after-wait-for-seconds.html
+
+CHANGE ANOTHER BUTTON IMAGE WHEN SOME BUTTON PRESSED
+https://answers.unity.com/questions/1525893/how-to-change-source-image-of-ui-image-in-code-new.html
+https://answers.unity.com/questions/1172061/how-to-change-image-of-button-when-clicked.html
+
+GETTING MUTIPLE RENDERER WITH LOOP
+https://gamedev.stackexchange.com/questions/158490/why-the-renderers-renderer-array-are-all-null
+
+APPLYING SIGLE MATERIAL TO MULTIPLE GAMEOBJECTS
+https://answers.unity.com/questions/8748/is-there-a-way-to-mass-assign-materials.html
+https://answers.unity.com/questions/1176684/how-do-i-assign-one-material-to-multiple-objects-u.html
+
+PLACING OBJECT ONLY ONCE WITH VUFORIA AFTER GROUND DETECTION
+https://www.xspdf.com/help/50677810.html
+CHECKING VUFORIA GROUND IS DETECTED OR NOT
+https://forum.unity.com/threads/how-to-check-if-ground-plane-got-detected.642580/
+
+ANIMATOR MANIPULATION
+https://answers.unity.com/questions/1350594/how-can-i-use-the-animator-in-script-to-find-when.html
+https://answers.unity.com/questions/901278/check-if-animator-animation-is-done-playing.html
+https://answers.unity.com/questions/362629/how-can-i-check-if-an-animation-is-being-played-or.html
+https://answers.unity.com/questions/1412772/how-to-stop-animation-from-playing-in-c.html#:~:text=To%20stop%20an%20animator%20from,GetComponent().
+
+ANIMATE ONLY ONE AXIS
+https://answers.unity.com/questions/274263/how-to-animate-only-y-axis.html
+
+GETTING ALL RIGIDBODIES IN LOOP
+https://answers.unity.com/questions/1425649/how-to-loop-to-get-all-rigidbodies-rendercomponent.html
+
+STOP ACCIDENTAL HIT FROM UI TO BEHIND GAMEOBJECTS
+https://answers.unity.com/questions/1410936/how-to-prevent-a-ui-element-from-clicking-the-game.html
+
+DRAGE AND MOVE 3D OBJECTS
+https://answers.unity.com/questions/600578/dragging-an-object-by-touch.html
+https://www.youtube.com/watch?v=3_CX-KtsDic
+//stackoverflow.com/questions/27822276/ar-vuforia-move-object-by-touch-only-in-x-z-unity3d
+
+LOG DEBUG MESSAGES FROM MOBILE IN UNITY
+adb logcat -s Unity
+
+CHANGE MATERIAL COLOR
+https://stackoverflow.com/questions/54281575/unity-2018-3-hdrp-change-material-color-programatically
+https://answers.unity.com/questions/1453968/how-to-change-color-of-multiple-objects-using-c.html
+
+Ground Texture
+https://www.cgbookcase.com/textures/stone-tiles-floor-01
+
+Changing Render Pass To RayTracing Makes Material Dissappear
+https://forum.unity.com/threads/how-to-use-ray-tracing-in-2019-3-b.735308/
+
+d3d error resolving
+https://answers.unity.com/questions/1682555/unity-202010a14-failed-to-present-d3d11-swapchain.html
